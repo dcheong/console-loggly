@@ -1,0 +1,23 @@
+{
+  "name": "console-loggly",
+  "version": "0.0.1",
+  "description": "Logglyjs wrapped in Console API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopPickInc/console-loggly.git"
+  },
+  "keywords": [
+    "loggly",
+    "console"
+  ],
+  "author": "TopPick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopPickInc/console-loggly/issues"
+  },
+  "homepage": "https://github.com/TopPickInc/console-loggly#readme"
+}
